@@ -25,11 +25,7 @@ Screenshots
 
 ![plugin browser screenshot](screenshots/screenshot_1.png "plugin browser screenshot")
 
-![screenshot 1](screenshots/screenshot_1.png "123")
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "yaktocat")
-
-![1plus1 in action screenshot] (screenshots/screenshot_2.png "1plus1 in action screenshot")
+![1plus1 in action screenshot](screenshots/screenshot_2.png "1plus1 in action screenshot")
 
 Credits
 -------
