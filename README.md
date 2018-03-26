@@ -25,10 +25,7 @@ Screenshots
 
 ![plugin browser screenshot] (https://github.com/E2OpenPlugins/e2openplugin-1plus1/raw/master/screenshots/screenshot_1.png "plugin browser screenshot")
 
-![ screenshot 1 ]
-(
-https://github.com/E2OpenPlugins/e2openplugin-1plus1/raw/master/screenshots/screenshot_1.png
-)
+![screenshot 1](screenshots/screenshot_1.png "123")
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "yaktocat")
 
