@@ -38,7 +38,7 @@ The numerical virtual keyboard was based on the virtual keyboard code disributed
 
 Source code
 -----------
-![1plus1 gitlab repository](https://github.com/E2OpenPlugins/e2openplugin-1plus1.git)
+![1plus1 github repository](https://github.com/E2OpenPlugins/e2openplugin-1plus1.git)
 
 
 License
