@@ -29,11 +29,9 @@ Screenshots
 
 Credits
 -------
-The **1plus1** logo was based on a public domain SVG [calculator icon]
-(https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-simple-calculator/30629.html).
+The **1plus1** logo was based on a public domain SVG [calculator icon](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-simple-calculator/30629.html).
 
-The numerical virtual keyboard was based on the virtual keyboard code disributed with [enigma2]
-(https://github.com/libo/Enigma2/blob/master/lib/python/Screens/VirtualKeyBoard.py).
+The numerical virtual keyboard was based on the virtual keyboard code disributed with [enigma2](https://github.com/libo/Enigma2/blob/master/lib/python/Screens/VirtualKeyBoard.py).
 
 
 Source code
